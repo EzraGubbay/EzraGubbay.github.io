@@ -2,7 +2,7 @@
 layout: home
 title: "Neurons and the Nervous System"
 date: 2025-06-25
-categories: Computational Biology
+categories: "Computational Biology"
 ---
 
 # What is a system?
